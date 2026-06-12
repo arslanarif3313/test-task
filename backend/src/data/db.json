@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "0f69fd82-75cb-4289-901e-edcdf5d054cd",
+      "title": "Testing Frontend Integration",
+      "status": "pending",
+      "createdAt": "2026-06-12T14:48:55.990Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "e8bf1ecd-780c-4f61-8e58-02367f28e809",
+      "taskId": "0f69fd82-75cb-4289-901e-edcdf5d054cd",
+      "actor": "Arslan Arif",
+      "fromStatus": "to_do",
+      "toStatus": "pending",
+      "timestamp": "2026-06-12T14:49:57.895Z"
+    }
+  ]
+}
